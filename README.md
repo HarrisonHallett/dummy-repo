@@ -1,7 +1,9 @@
 # Main title
 ## dummy-repo
-Dummy repository to be used for demonstrating git stuff
+Dummy repository to be used for demonstrating git stuff.
 
-Ich heiße Harrison
+Ich heiße Harrison.
 
-Ich leibe Keramik
+Ich leibe Keramik.
+
+Ich mag schlafen.
